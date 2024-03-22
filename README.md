@@ -1,10 +1,4 @@
 # A partir do zero: iniciante em programação
-<br>
-<p align="center">
-<img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
-</p>
-<br>
-
 
 Projeto para desenvolver a lógica de programação em JavaScript, e para isso foi desenvolvido um projeto chamado número secreto, onde você deve adivinhar o número que o computador escolheu!
 O objetivo é finalizar o curso principal "A partir do zero: iniciante em programação", fazendo os pequenos cursos dentro dele:
